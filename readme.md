@@ -94,7 +94,7 @@ Which cites a very interesting paper[^AC-BonPerTia19] (obviously picked uniforml
 This is a basic python project, so running the following in your terminal should work out-of-the-box. It will download this program, its dependency (namely [pylatexenc](https://pylatexenc.readthedocs.io/en/latest/)), create an executable called `bibfoot`, and put it somewhere in your `$PATH`.
 
 ```sh
-pip install git+https://github.com/lpp-crypto/bibfoot.bib
+pip install git+https://github.com/lpp-crypto/bibfoot.git
 ```
 
 
