@@ -25,6 +25,7 @@ import os
 import re
 from pathlib import Path
 import argparse
+import sys
 
 from pylatexenc.latexwalker import LatexWalker, get_default_latex_context_db as _walker_ctx
 from pylatexenc.latex2text import LatexNodes2Text, get_default_latex_context_db as _l2t_ctx
