@@ -1,0 +1,17 @@
+[project]
+name = "bibfoot"
+version = "0.0.1"
+dependencies = [ "pylatexenc" ]
+
+[project.scripts]
+bibfoot  = "scripts.main:main"
+
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
+[tool.setuptools.packages.find]
+include = ["scripts*"] 
+namespaces = false
