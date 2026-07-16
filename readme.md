@@ -1,6 +1,9 @@
 # Bibfoot
 
 
+![The logo of bibfoot, showing an animal footprint.](./figures/bibfoot.png)
+
+
 A tool to plug bibtex references into markdown in way that is rendered properly in github/hugo 
 
 ## Purpose
@@ -100,4 +103,4 @@ pip install git+https://github.com/lpp-crypto/bibfoot.git
 
 ## Special thanks
 
-[Katharina Koschatko](https://github.com/katharina-koschatko) for the name!
+[Katharina Koschatko](https://github.com/katharina-koschatko) for the name and the logo!
